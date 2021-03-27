@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EliasitoKawaii
+- 👀 I’m interested in ... Web Developing
+- 🌱 I’m currently learning ... Frontend and Backend 
